@@ -1,0 +1,2 @@
+numero = float(input("1. Ingresa un número: "))
+print("Número ingresado:", numero)
