@@ -1,0 +1,3 @@
+a = float(input("\n2. Ingresa el primer número: "))
+b = float(input("Ingresa el segundo número: "))
+print("Suma:", a + b)
