@@ -1,0 +1,2 @@
+n = float(input("\n4. Ingresa un número: "))
+print("El doble es:", n * 2)
