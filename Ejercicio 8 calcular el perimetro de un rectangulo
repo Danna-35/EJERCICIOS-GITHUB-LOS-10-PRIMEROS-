@@ -1,0 +1,4 @@
+float(input("\n8. Ingresa el largo del rectángulo: "))
+float(input("Ingresa el ancho del rectángulo: "))
+2 * (lado1 + lado2)
+print("Perímetro del rectángulo:", perimetro)
