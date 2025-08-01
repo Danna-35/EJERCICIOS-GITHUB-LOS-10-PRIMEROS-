@@ -1,0 +1,3 @@
+float(input("\n9. Ingresa la cantidad en metros: "))
+metros * 100
+print("Equivalente en centímetros:", centimetros)
