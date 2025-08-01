@@ -1,0 +1,7 @@
+numero2 = float(input("\n10. Ingresa un número: "))
+if numero2 > 0:
+    print("Es positivo.")
+elif numero2 < 0:
+    print("Es negativo.")
+else:
+    print("Es cero.")
